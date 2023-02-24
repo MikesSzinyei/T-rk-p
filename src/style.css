@@ -1,0 +1,26 @@
+/*
+* File: style.css
+* Author: Szinyei Mikes
+* Copyright: 2023, Szinyei Mikes
+* Group: Szoft I-2 N
+* Date: 2023-02-23
+* Github: https://github.com/MikesSzinyei/
+* Licenc: GNU GPL
+*/
+
+footer {
+    background-color: aqua;
+    padding: 3px;
+    text-align:center;
+    position:fixed;
+    top:80px;
+    right:-180px;
+    width:600px;
+    transform:rotate(45deg);
+    border-top:3px solid red;
+    border-bottom:3px solid red;
+}
+.container {
+    background-image:linear-gradient(aqua,blue);
+    border-radius: 5px;
+}
